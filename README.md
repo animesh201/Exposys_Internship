@@ -31,7 +31,7 @@
 ## Demo
 * The App can support upto 8-12 users without having any UI alignment issues
 
-[https://videochatexposys.vercel.app/](https://videochatexposys.vercel.app/)
+[https://exposys-internship.vercel.app/](https://exposys-internship.vercel.app/)
 
 
-Project Link: [https://github.com/i-m-radioactive/videochatexposys](https://github.com/i-m-radioactive/videochatexposys)
+Project Link: [https://github.com/animesh201/Exposys_Internship/](https://github.com/animesh201/Exposys_Internship/)
